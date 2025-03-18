@@ -38,7 +38,7 @@ CryptoVault IPFS allows users to encrypt files locally, store them securely on I
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/cryptovault-ipfs.git
+   git clone https://github.com/Achyut21/CVIPFS.git
    cd cryptovault-ipfs/backend
    ```
 2. **Install Dependencies:**
