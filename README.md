@@ -1,6 +1,6 @@
 # CryptoVault IPFS 🔐🚀
 
-CryptoVault IPFS is a decentralized backup and recovery system that leverages the power of **IPFS (InterPlanetary File System)** to securely store encrypted files. By combining **AES** symmetric encryption with **RSA** digital signatures, CryptoVault IPFS ensures your sensitive files remain confidential and tamper-proof.
+CryptoVault IPFS is a decentralized backup and recovery system that leverages the power of **IPFS (InterPlanetary File System)** to securely store encrypted files. By combining **AES** symmetric encryption with **RSA** digital signatures, CryptoVault IPFS ensures your sensitive files remain confidential and tamper proof.
 
 ---
 
